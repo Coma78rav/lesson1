@@ -70,5 +70,17 @@ git checkout 0ca053897ba8b5cf61aa5c3768c017fd3676f773
 ```sh
 git checkout master
 ```
-git diff
 
+## Срвнения изминений
+показывает изминения с последней фиксации
+```sh
+git diff
+```
+
+_*При подготовке обращался к ресурсам:*_
+
+* [habr.com](https://habr.com/ru/companies/ruvds/articles/599929/ "30 команд Git, необходимых для освоения интерфейса командной строки Git")
+
+* [git.github.io](https://git.github.io/git-scm.com/book/ru/v2/Приложение-C:-Команды-Git-Основные-команды/ "Git - Основные команды")
+
+* [www.dmosk.ru](https://www.dmosk.ru/miniinstruktions.php?mini=git "Шпаргалка по работе с командами git")
