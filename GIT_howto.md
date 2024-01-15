@@ -45,7 +45,12 @@ git add .
 git status
 ```
 
-git commit -m "Message@
+# Создание коммитов:
+*Коммит - запись изминений с комментарием:*
+```sh
+git commit -m "Message"
+```
+
 git log
 git log --oneline
 git checkout
