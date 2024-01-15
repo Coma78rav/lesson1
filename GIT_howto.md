@@ -51,8 +51,16 @@ git status
 git commit -m "Message"
 ```
 
+## Просмотр истории коммитов с изминениями:
+* Полная история:
+```sh
 git log
+```
+* Краткая история _(в одну строку)_
+```sh
 git log --oneline
+```
+
 git checkout
 git diff
 
