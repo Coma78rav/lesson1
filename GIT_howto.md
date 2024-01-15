@@ -61,6 +61,14 @@ git log
 git log --oneline
 ```
 
-git checkout
+## Переход между коммитами:
+* *переключение между состояниями проекта*:
+```sh
+git checkout 0ca053897ba8b5cf61aa5c3768c017fd3676f773
+```
+* *возврат в последнее состояние*
+```sh
+git checkout master
+```
 git diff
 
