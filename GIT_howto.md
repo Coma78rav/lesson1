@@ -98,7 +98,7 @@ git checkout <имя_ветки>
 ### Слияние ветвей:
 
 ```sh
-git merge new_branch
+git merge <имя_ветки>
 ```
 
 ### Удаление ветви:
