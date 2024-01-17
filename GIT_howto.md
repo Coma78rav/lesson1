@@ -94,7 +94,7 @@ git branch <new_branch>
 ### Переход на новую ветвь:
 
 ```sh
-git checkout <имя ветки>
+git checkout <имя_ветки>
 ```
 
 ### Слияние ветвей:
