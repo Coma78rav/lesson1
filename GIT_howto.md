@@ -108,7 +108,7 @@ git merge <имя_ветки>
 ### Удаление ветви:
 
 ```sh
-git branch -d new_branch
+git branch -d <имя_ветки>
 ```
 
 
