@@ -88,13 +88,13 @@ git branch
 ### Создание новой ветви:
 
 ```sh
-git branch new_branch
+git branch <имя ветки>
 ```
 
 ### Переход на новую ветвь:
 
 ```sh
-git checkout new_branch
+git checkout <имя ветки>
 ```
 
 ### Слияние ветвей:
