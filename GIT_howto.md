@@ -77,6 +77,35 @@ git checkout master
 git diff
 ```
 
+## Работа с ветвями изменений:
+
+### Проверка состаяния ветвей:
+
+```sh
+git branch
+```
+
+### Создание новой ветви:
+
+```sh
+git branch new_branch
+```
+
+### Переход на новую ветвь:
+
+```sh
+git checkout new_branch
+```
+
+### Слияние ветвей:
+
+```sh
+git merge new_branch
+```
+
+
+
+
 _*При подготовке обращался к ресурсам:*_
 
 * [habr.com](https://habr.com/ru/companies/ruvds/articles/599929/ "30 команд Git, необходимых для освоения интерфейса командной строки Git")
