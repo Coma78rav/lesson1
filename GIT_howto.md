@@ -103,6 +103,11 @@ git checkout new_branch
 git merge new_branch
 ```
 
+### Удаление ветви:
+
+```sh
+git branch -d new_branch
+```
 
 
 
