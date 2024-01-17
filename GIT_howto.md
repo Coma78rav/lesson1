@@ -88,7 +88,7 @@ git branch
 ### Создание новой ветви:
 
 ```sh
-git branch new_branch
+git branch <new_branch>
 ```
 
 ### Переход на новую ветвь:
