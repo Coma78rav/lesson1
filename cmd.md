@@ -2,7 +2,7 @@
 
 Команда смены директории 
 ```sh
-cd c:\folder_name
+cd c:\<folder_name>
 ```
 
 Команда отображения текущей директории MacOs, linux
